@@ -1,0 +1,44 @@
+## .NET / C# build artifacts
+bin/
+obj/
+out/
+
+## Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## VS Code
+.vscode/
+*.code-workspace
+
+## NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Logs
+*.log
+
+## Test results
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+
+## User-specific files
+*.rsuser
+*.userprefs
