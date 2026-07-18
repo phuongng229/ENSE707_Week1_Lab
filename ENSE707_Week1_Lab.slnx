@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ENSE707_Week1_Lab.Tests/ENSE707_Week1_Lab.Tests.csproj" />
+  <Project Path="ENSE707_Week1_Lab/ENSE707_Week1_Lab.csproj" />
+</Solution>
